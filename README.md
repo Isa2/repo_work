@@ -7,3 +7,4 @@ Trabajo de prueba
 * Lista 2
 * Lista 3
 * Lista 4
+available.packages()
